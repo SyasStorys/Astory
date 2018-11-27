@@ -621,7 +621,7 @@ header.page-header .main-menu{
 
 .main-menu .navbar-nav li a:hover,
 .main-menu .navbar-nav li.active a{
-    background-color: rgb(28, 165, 219);
+    background-color: #3084c9;
     color: #ffffff;
 }
 
