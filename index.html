@@ -495,19 +495,19 @@
              <!-- <form name="sentMessage" id="contactForm"  novalidate> -->
               <div class="col-md-6">
              <input type="text" class="form-control"
-             placeholder="Full Name" id="name" required
+             placeholder="제목" id="subject" required
              data-validation-required-message="Please enter your name" />
              <p class="help-block"></p>
              </div>
               <div class="col-md-6">
-             <input type="email" class="form-control" placeholder="Email"
+             <input type="email" class="form-control" placeholder="이메일"
              id="email" required
              data-validation-required-message="Please enter your email" />
              </div>
 
              <div class="col-md-12">
              <textarea rows="10" cols="100" class="form-control"
-             placeholder="Message" id="message" required
+             placeholder="내용" id="message" required
              data-validation-required-message="Please enter your message" minlength="5"
              data-validation-minlength-message="Min 5 characters"
              maxlength="999" style="resize:none"></textarea>
@@ -587,11 +587,12 @@
 
         function send(){
             setTimeout(function(){
-                var name = $("#name").val();
+
                 var email = $("#email").val();
+                var subject = $("#subject").val();
                 var message = $("#message").val();
 
-                window.open("mailto:" + name + email + "&body=" + message);
+                window.open("mailto:" + email + "?subject=" + subject + "&body=" + message);
             }, 320);
         }
 
