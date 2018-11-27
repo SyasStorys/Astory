@@ -66,7 +66,7 @@ header.page-header{
 	}
 
  b, strong{
-	 color: #b92763;
+	 color: #3084c9;
 	}
 h1,h2,h3,h4,h5,h6{
    font-family: 'Asap', sans-serif;
@@ -106,7 +106,7 @@ h5{
 }
 
 a,p,li,input,textarea{
-    
+
     font-weight: 400;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
@@ -123,7 +123,7 @@ a{
 	-ms-transition: all .3s;
 	-o-transition: all .3s;
 	transition: all .3s;
-	color: #b92763;
+	color: #3084c9;
 }
 
 a:hover,
@@ -157,9 +157,9 @@ a:active{
 	text-align: center;
 }
 
- 
+
 .button-solid{
-	
+
 	font-size: 14px;
 	font-weight: 700;
 	color: #ffffff;
@@ -177,7 +177,7 @@ a:active{
 	color: #ffffff;
 }
 .button-outline{
-	
+
 	font-size: 14px;
 	font-weight: 700;
 	color: #ffffff;
@@ -193,7 +193,7 @@ a:active{
 }
 
 .button-outline-round{
-	
+
 	font-size: 14px;
 	font-weight: 700;
 	text-align: center;
@@ -247,7 +247,7 @@ a:active{
 	border: 1px solid transparent;
 }
 .btn-round{
-	
+
 	font-size: 14px;
 	font-weight: 700;
 	padding: 15px 30px;
@@ -269,7 +269,7 @@ a:active{
 	color: #ffffff;
 }
 
- 
+
 .blurb-icon-only{
 	margin-bottom: 50px;
 }
@@ -344,7 +344,7 @@ a:active{
 	font-size:52px;
 	margin: 10px 0 20px;
 	display: inline-block;
-	color: #b92763;
+	color: #3084c9;
 }
 .text-primary {
     color: #8a7187 !important;
@@ -364,8 +364,8 @@ section#services {
 .btn-primary {
     color: #fff;
     border-radius: 0;
-    background-color: #b92763;
-    border-color: #b92763;
+    background-color: #3084c9;
+    border-color: #3084c9;
     padding: 15px 25px;
 }
 .form-control, input {
@@ -450,7 +450,7 @@ section#services {
     margin: 28px 15px 10px;
 }
 .icon i {
-    color: #b92763;
+    color: #3084c9;
     font-size: 50px;
     margin: 16px 0 34px 0;
     display: inline-block;
@@ -472,7 +472,7 @@ section#services {
 }
 
 .section-header h1{
-	
+
 	font-weight: 700;
 	font-size: 30px;
 	color: #ffffff;
@@ -481,14 +481,14 @@ section#services {
 .section-header h2{
 	/* font-weight: 700; */
 	font-size: 48px;
-	color: #b92763;
+	color: #3084c9;
 	border-top: none;
 	border-bottom: none;
 	padding: 8px 10px;
 }
 
 .section-header h1 span{
-	
+
 	font-weight: 700;
 	font-size: 30px;
 }
@@ -513,19 +513,19 @@ section#services {
 }
 
 .section-header-parallax h1{
-	
+
 	font-weight: 700;
 	font-size: 30px;
 	color: #ffffff;
 }
 
 .section-header-parallax h1 span{
-	
+
 	font-weight: 700;
 	font-size: 30px;
 }
- 
- 
+
+
 .cta-1{
 	background-color: #28292e;
 	padding: 60px 0;
@@ -571,7 +571,7 @@ section#services {
     font-size: 18px;
     line-height: 20px;
 }
- 
+
 .main-menu{
     /* background-color: #ffffff; */
     background-color: transparent;
@@ -629,7 +629,7 @@ header.page-header .main-menu{
 	background-color: transparent;
 }
 
- 
+
 .main-menu.minified{
 	background-color: #20181f;
 	padding: 0;
@@ -644,7 +644,7 @@ header.page-header .main-menu.minified{
 	    float: left;
     width: 100%;
 }
- 
+
 .slider{
 	overflow: hidden;
 	background-color: #2A2B32;
@@ -671,7 +671,7 @@ header.page-header .main-menu.minified{
 }
 
 .main-slides .slider-text h1 span{
-	
+
 	font-weight: 700;
 }
 
@@ -694,7 +694,7 @@ header.page-header .main-menu.minified{
 }
 
 .slider .sp-button {
-  border: 1px solid #b92763;
+  border: 1px solid #3084c9;
   border-radius: 50%;
   box-sizing: border-box;
   cursor: pointer;
@@ -830,7 +830,7 @@ header.page-header .main-menu.minified{
 }
 
 .port-work-details .port-work-desc .like-btn a{
-	
+
 	font-size: 18px;
 	font-weight: 400;
 	color: #ffffff;
@@ -861,17 +861,17 @@ header.page-header .main-menu.minified{
 	padding: 10px 20px;
 	display: inline-block;
 	margin: 0 8px !important;
-	border: 1px solid #b92763;
+	border: 1px solid #3084c9;
 }
 
 .portfolio-filter-btn-group ul li a:hover{
 	color: #FFF;
-	background-color: #b92763;
+	background-color: #3084c9;
 }
 
 .portfolio-filter-btn-group ul li a.selected{
 	color: #ffffff;
-	background: #b92763;
+	background: #3084c9;
 }
 .portfolio-items{
 	overflow: hidden;
@@ -1055,7 +1055,7 @@ header.page-header .main-menu.minified{
 	text-align: center;
 	color: #ffffff;
 	padding: 0 20px;
-} 
+}
 
 #team {
     padding: 100px 0;
@@ -1172,7 +1172,7 @@ header.page-header .main-menu.minified{
 }
 .pricing-plans .pricing-titles{
 	text-align: center;
-	border: 1px solid #b92763;
+	border: 1px solid #3084c9;
 	border-bottom: 0;
 	padding: 25px 0 15px;
 }
@@ -1187,7 +1187,7 @@ header.page-header .main-menu.minified{
 
 .pricing-plans .pricing-titles p{
 	font-size: 16px;
-	color: #b92763;
+	color: #3084c9;
 }
 
 .pricing-plans .pricing-titles p span{
@@ -1196,8 +1196,8 @@ header.page-header .main-menu.minified{
 }
 .pricing-plans .pricing-service-name{
 	background-color: #20181f;
-	border-left: 1px solid #b92763;
-	border-right: 1px solid #b92763;
+	border-left: 1px solid #3084c9;
+	border-right: 1px solid #3084c9;
 }
 
 .pricing-plans ul li{
@@ -1213,12 +1213,12 @@ header.page-header .main-menu.minified{
 	padding: 15px 30px;
 	text-align: center;
 	display: inline-block;
-	background: #b92763;
+	background: #3084c9;
 }
 .bg-btn {
 	padding: 20px;
 	border-top: none;
-	border: #b92763 solid 1px;
+	border: #3084c9 solid 1px;
 	border-top: none;
 }
 .pricing-plans a.signup-btn:hover{
@@ -1476,7 +1476,7 @@ footer ul li a i{
 
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
- 
+
   .main-menu.minified {
     background-color: #28292e;
     padding: 20px 0 0;
@@ -1509,7 +1509,7 @@ footer ul li a i{
     float: none;
     margin-bottom: 5px;
   }
- 
+
   .portfolio-items .portfolio-item {
     height: 280px;
     overflow: hidden;
@@ -1517,10 +1517,10 @@ footer ul li a i{
     width: 33.33331%;
   }
 }
- 
+
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
- 
+
   .main-menu.minified {
     background-color: #28292e;
     padding: 20px 0 0;
@@ -1568,7 +1568,7 @@ footer ul li a i{
     font-size: 24px;
     line-height: 50px;
   }
- 
+
   .portfolio-items .portfolio-item {
     height: 280px;
     overflow: hidden;
@@ -1576,7 +1576,7 @@ footer ul li a i{
     width: 33.33331%;
   }
 }
- 
+
 
 @media only screen and (max-width: 767px) {
  .navbar-brand{
@@ -1671,7 +1671,7 @@ footer ul li a i{
   .cta-1 .cta-btn a{
   	float: none;
   }
- 
+
 .main-slides h1.slider-text-big {
   color: #ffffff;
   font-size: 50px;
@@ -1684,7 +1684,7 @@ footer ul li a i{
 
 .main-slides p {
   color: #ffffff;
-  
+
   font-size: 18px !important;
   font-weight: 400;
   margin-bottom: 0;
@@ -1693,7 +1693,7 @@ footer ul li a i{
   margin-top: 20px;
   width: 100% !important;
  }
- 
+
   .portfolio-items .portfolio-item {
     height: 280px;
     overflow: hidden;
@@ -1703,17 +1703,17 @@ footer ul li a i{
   .service-wrapper > div{
     margin-bottom: 50px;
   }
- 
+
   .contact-section .contact-address {
     margin-bottom: 50px;
   }
 
 
 }
- 
+
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
- 
+
   .portfolio-items .portfolio-item {
     width: 50%;
   }

@@ -121,7 +121,7 @@
 	margin-right: 0;
 }
 
-/* Vertical thumbnails 
+/* Vertical thumbnails
 ----------------------*/
 .sp-left-thumbnails .sp-thumbnail-container,
 .sp-right-thumbnails .sp-thumbnail-container {
@@ -384,7 +384,7 @@
 }
 
 .sp-selected-button {
-	background-color: #b92763;
+	background-color: #1ca5db;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
